@@ -1,0 +1,12 @@
+streamlit==1.37.0
+numpy==1.26.4
+pandas==2.2.2
+
+
+### How to Use This File:
+
+1.  Save the code above in a file named `requirements.txt` in your project's root directory.
+2.  Open your terminal in that same directory.
+3.  Run the following command to install all the libraries at once:
+    ```bash
+    pip install -r requirements.txt
